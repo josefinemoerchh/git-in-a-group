@@ -1,3 +1,7 @@
 h1 {
     font-family:fantasy;
   }
+p{
+    margin: auto;
+    padding: 20px;
+}
